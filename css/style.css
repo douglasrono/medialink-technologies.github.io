@@ -208,8 +208,8 @@ section {
  }
 
 @media (max-width: 576px) {
-  #header .logo {
-  font-size: 1rem;
+  #header .logo a{
+  font-size: .7rem;
 
   font-weight: 700;
   
